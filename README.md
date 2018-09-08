@@ -4,3 +4,6 @@
 # 启动项目
 ```js
 npm app
+
+访问端口：
+  localhost:3000
